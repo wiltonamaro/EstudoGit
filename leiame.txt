@@ -1,0 +1,3 @@
+LEIAME
+Arquivo contendo as ideias para o projeto.
+Nova linha.
